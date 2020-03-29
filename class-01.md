@@ -52,6 +52,7 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes/).
  * Avoiding CSS3 shadows, gradients, transforms, and animations within mobile styles isn’t a bad idea either.
 
 ![Responsive](img/Responsive-Website-Designing.gif)
+Format: ![Alt Text](url)
 
 ----------------------------------
 # All About Floats:-
@@ -67,4 +68,5 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes/).
 * We fix collapse by clearing the float after the floated elements in the container but before the close of the container.
 
 
-![Float](img/float-problem.gif)
+![Float](../img/float-problem.gif)
+Format: ![Alt Text](url)
