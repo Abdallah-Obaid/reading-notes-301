@@ -51,7 +51,7 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
  * The mobile first approach includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows.
  * Avoiding CSS3 shadows, gradients, transforms, and animations within mobile styles isn’t a bad idea either.
 
-![Responsive](img/Responsive-Website-Designing.gif)
+![Responsive](https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif)
 
 ----------------------------------
 # All About Floats:-
@@ -67,4 +67,4 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
 * We fix collapse by clearing the float after the floated elements in the container but before the close of the container.
 
 
-![Float](img/float-problem.gif)
+![Float](https://bitsofco.de/img/blog/28/float-problem.gif)
