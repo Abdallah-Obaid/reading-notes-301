@@ -23,8 +23,7 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
 ----------------------------------
 # Javascript Templating:-
 ----------------------------------
- * Javascript Templating
-   Javascript templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source. The template is HTML markup, with added templating tags that will either insert variables or run programming logic.
+ * Javascript Templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source. The template is HTML markup, with added templating tags that will either insert variables or run programming logic.
  * Mustache is a logic-less template syntax. It can be used for HTML, config files, source code — anything. It works by      expanding tags in a template using values provided in a hash or object. 
  * It is often referred to as “logic-less” because there are no if statements, else clauses, or for loops. Instead, there are only tags. Some tags are replaced with a value, some nothing, and others a series of values.
  * In general, we would write templates according to the Mustache specification, and it can then be compiled by a templating engine to be rendered to create an output.
@@ -32,15 +31,15 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
 
 ![Mustache](https://media.giphy.com/media/Z4NLF0caXuVYk/giphy.gif)
 
-# Flexbox:-
+# Flex-box:-
 ----------------------------------
- * Flexbox focus in container.
- * Using flex display the element in the container will not be wrapping and element will go left or write as a row by defult.
- * we can use flex-direction:column to make element in a columen instead of row.
+ * Flex-box focus in container.
+ * Using flex display the element in the container will not be wrapping and element will go left or write as a row by default.
+ * we can use flex-direction:column to make element in a column instead of row.
  * Flex-direction:row-reverse will reverse the element positions left right and right left.
  * Flex-wrap:wrap; will make the element wrap after exceed the container width and we can also add wrap-reverse to reverse the wrap.
- * justify-contebt:flex-end; will make the element of a container go to the end of the container without reverse them.
- * justify-contebt:flex-center; will make the element of a container go to the center of the container.
+ * justify-content:flex-end; will make the element of a container go to the end of the container without reverse them.
+ * justify-content:flex-center; will make the element of a container go to the center of the container.
  * align-items:center; will make the container element be in the vertically center of it instead of the default thing that is stretching with the container height.
 ![Flexbox](https://media2.giphy.com/media/k5EMENIQciDOo/giphy.gif)
 
