@@ -20,6 +20,8 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
  Read 14a    | [DB Normalization](https://abdallah-obaid.github.io/reading-notes-301/class-14a).
  Read 14b    | [Project Ideas & APIs](https://abdallah-obaid.github.io/reading-notes-301/class-14b).
  Read 15     | [Diversity and Inclusion](https://abdallah-obaid.github.io/reading-notes-301/class-15).
+
+ 
 ----------------------------------
 # Javascript Templating:-
 ----------------------------------
