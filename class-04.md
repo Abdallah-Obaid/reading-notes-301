@@ -8,7 +8,7 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
  Read 02     | [jQuery, Events, and The DOM](https://abdallah-obaid.github.io/reading-notes-301/class-02).
  Read 03     | [Flexbox and Templating](https://abdallah-obaid.github.io/reading-notes-301/class-03).
  Read 04     | [Responsive Web Design and Regular Expressions](https://abdallah-obaid.github.io/reading-notes-301/class-04).
- Read 05     | [Responsive Web Design and Regular Expressions](https://abdallah-obaid.github.io/reading-notes-301/class-05).
+ Read 05     | [Heroku Deployment](https://abdallah-obaid.github.io/reading-notes-301/class-05).
  Read 06     | [Node, Express, and APIs](https://abdallah-obaid.github.io/reading-notes-301/class-06).
  Read 07     | [APIs continued](https://abdallah-obaid.github.io/reading-notes-301/class-07).
  Read 08     | [SQL](https://abdallah-obaid.github.io/reading-notes-301/class-08).

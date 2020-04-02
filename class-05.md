@@ -1,4 +1,4 @@
-# Read 02 ~ Query, Events, and The DOM
+# Read 05 ~ Heroku Deployment
 > By Abdallah obaid
 
 **NAME**     | **URL**
@@ -23,14 +23,15 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
 
  
 ----------------------------------
-# jQuery:-
+# Heroku Deployment:-
 ----------------------------------
- * jQuery: is a java script file that you include in your web pages.It lets you find elements using CSS-style selectors and then do something with the elements using jQuery methods.
- * Instead of write jQuery() we can write $()
- * jQuery do same like DOM but with a simple syntax.
- * We use jQuery to make the code more simpler.
- * With jQuery we usually select elements with CSS-style selectors.
- * With jQuery its easier to use events because event methods work across all browsers.
-
-![ jQuery](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png)
-
+ * We use the heroku login command to log in to the Heroku CLI.
+ * The authentication is required for both the heroku and git commands to work correctly.
+ * Heroku need the git, node.js and npm to work.
+ * heroku create: will Create an app on Heroku, which prepares Heroku to receive your source code.
+ * git push heroku master: will push/deploy my work to the heroku server.
+ * heroku ps:scale web=1: to Ensure that at least one instance of the app is running.
+ * heroku open: will send you to the url of your app after pushing it.
+ * heroku logs --tail: to view information about your running app.
+ * Control+C: to stop streaming the logs.
+ ![Heroku](./Img/heroku.gif)
