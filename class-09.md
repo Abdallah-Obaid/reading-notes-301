@@ -1,4 +1,4 @@
-# Read 08 ~ Refactoring
+# Read 09 ~ Refactoring
 > By Abdallah obaid
 
 **NAME**     | **URL**
@@ -43,4 +43,4 @@ Home         | [Home](https://abdallah-obaid.github.io/reading-notes-301/).
 *  Here is a very strict definition of purity:
 > It returns the same result if given the same arguments (it is also referred as deterministic).
 > It does not cause any observable side effects.
- ![functional.png](./Img/functional.png)
+ ![functional](./Img/functional.png)
